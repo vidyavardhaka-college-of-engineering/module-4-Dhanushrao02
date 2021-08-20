@@ -2,7 +2,7 @@
 
 //Input: 5 2 3 4 5 6 
 //Output:Sum=20
-include <stdio.h>
+#include <stdio.h>
 void main() 
 {
    int arr1[10];
